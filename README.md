@@ -1,8 +1,8 @@
 # Elevance Skills Projects
 
-Google Play Store App Analysis Project
-App Install & Rating Hierarchy
-Monthly Install Trends & Forecast
-Install Growth & Anomaly Trends
-Category Performance Clusters
-Free vs Paid App Performance
+Google Play Store App Analysis Project |
+Interactive App Category Heatmap |
+Hierarchal App Market Visualisation | 
+App Category Performance Streamgraph |
+App Category Performance Analysis |
+Comparative App Performance Analysis
